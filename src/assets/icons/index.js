@@ -1,0 +1,10 @@
+export { default as GoogleIcon } from "./GoogleIcon";
+export { default as FacebookIcon } from "./FacebookIcon";
+export { default as DiscordIcon } from "./DiscordIcon";
+export { default as TwitterIcon } from "./TwitterIcon";
+export { default as InfoIcon } from "./InfoIcon";
+export { default as AddIcon } from "./AddIcon";
+export { default as UserIcon } from "./UserIcon";
+export { default as StarIcon } from "./StarIcon";
+export { default as CheckCircleIcon } from "./CheckCircleIcon";
+export { default as CalendarIcon } from "./CalendarIcon";
